@@ -81,5 +81,3 @@ I needed to carefully map the raw array into real `Student` instances without lo
 
 Functions like `findTopStudent()` and `calculateClassAverage()` required attention because small mistakes in array manipulation caused incorrect results.
 
-
-Just tell me!
